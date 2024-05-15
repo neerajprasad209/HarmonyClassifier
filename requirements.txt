@@ -1,8 +1,9 @@
-pandas 
-numpy
-seaborn
-matplotlib
-scikit-learn
+python==3.11.3
+pandas==2.2.2
+numpy==1.24.3
+seaborn==0.13.2
+matplotlib==3.8.4
+scikit-learn==1.4.2
 nltk
 tensorflow==2.13.0
 streamlit
